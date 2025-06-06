@@ -270,6 +270,10 @@ com\.google\.wear\..*
 lineageos\.platform
 org\.lineageos\.platform\.internal
 
+# DerpFest adds
+org.derpfest.*
+vendor.derpfest.*
+
 # NT adds
 com\.nothing
 com\.nothing\..*
